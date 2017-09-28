@@ -1,1 +1,2 @@
 the first line!
+the second linegit commit -m added filegit commit -m added file
